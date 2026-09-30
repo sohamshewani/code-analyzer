@@ -1,0 +1,1 @@
+Exhaustive documentation with architecture details
